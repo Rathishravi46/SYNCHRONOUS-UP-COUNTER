@@ -1,7 +1,10 @@
 ### SYNCHRONOUS-UP-COUNTER
 
 Name: Rathish R
+
 Reg no : 24901297
+
+Date : 13.05.25
 
 **AIM:**
 
